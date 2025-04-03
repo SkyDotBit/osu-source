@@ -1,0 +1,65 @@
+{
+    "name": "osu!source",
+    "subtitle": "Unofficial osu! AltSource created by Sky.Bit",
+    "description": "This is an unofficial osu!lazer AltSource designed to simplify the sideloading process for osu!lazer, created by Sky.Bit. This is not affiliated with osu! or its developers. I will try to update this source as often as possible. Don't expect the latest osu!lazer version immediately. If you need me to change anything about this AltSource email me skydotbit@icloud.com \n NOTE: This AltSource will not recieve any updates after osu!lazer is released to the iOS App Store.", 
+    "iconURL": "https://osu.ppy.sh/images/favicon/apple-touch-icon.png",
+    "headerURL": "https://assets.ppy.sh/forum-covers/7/d3aee55866787c7dbc0f1456c9c0aa67698b46ada345c6dfd0aca736db30b855.jpeg",
+    "website": "https://osu.ppy.sh",
+    "tintColor": "#E7649E",
+    "featuredApps": [
+        "sh.ppy.osulazer"
+        
+    ],
+    "apps": [
+        {
+            "name": "osu!lazer",
+            "bundleIdentifier": "sh.ppy.osulazer",
+            "developerName": "peppy & other osu! developers",
+            "subtitle": "osu!lazer for iOS",
+            "localizedDescription": "osu!lazer for iOS made by Peppy and other osu! developers. This is the official osu!lazer app for iOS though not from the official AltSource because there is no AltSource for osu!lazer.",
+            "category": "games",
+            "iconURL": "https://osu.ppy.sh/images/favicon/apple-touch-icon.png",
+            "tintColor": "#E7649E",
+            "screenshots": [
+                "https://github.com/SkyDotBit/osu-source/blob/main/IMG_6951.png?raw=true",
+                "https://github.com/SkyDotBit/osu-source/blob/main/IMG_6950.png?raw=true",
+                "https://github.com/SkyDotBit/osu-source/blob/main/IMG_6949.png?raw=true"
+                
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2025-03-21",
+                    "size": 194445794,
+                    "downloadURL": "https://github.com/ppy/osu/releases/download/2025.321.0/osu.iOS.ipa",
+                    "localizedDescription": "Bug fixes and compatibility updates."
+                }
+                
+            ],
+            "appPermissions": {
+              "entitlements": [
+                "beta-reports-active"
+              ],
+              "privacy": {
+                "NSMicrophoneUsageDescription": "I don't honestly know why osu!lazer needs microphone access, but it does.",
+                "NSCameraUsageDescription": "I also don't know why osu!lazer uses the camera, but it does.",
+                "NSBluetoothAlwaysUsageDescription": "If I had to guess, osu!lazer uses bluetooth to connect to a mouse/keyboard/tablet/audio device, but I also don't quite know for this lmao"
+              }
+            }
+            
+        }
+        
+    ],
+    "news": [
+        {
+            "title": "3 Digit World Cup 2025 Concludes",
+            "identifier": "three_digit_world_cup_2025_concludes",
+            "caption": "by shdewz, nik, this1neguy, I-Flame, Damarsh",
+            "date": "2025-02-02",
+            "tintColor": "#78D877",
+            "imageURL": "https://i.ppy.sh/85cd8e33c658c7b8de4c02390945158149622cec/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f546f75726e616d656e74732f3357432f323032352f696d672f706f6469756d2e6a7067",
+            "notify": false,
+            "url": "https://osu.ppy.sh/home/news/2025-04-02-3-digit-world-cup-2025-concludes"
+        }
+    ]
+}
