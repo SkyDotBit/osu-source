@@ -1,7 +1,7 @@
 {
     "name": "osu!source",
     "subtitle": "Unofficial osu! AltSource created by Sky.Bit",
-    "description": "This is an unofficial osu!lazer AltSource designed to simplify the sideloading process for osu!lazer, created by Sky.Bit. This is not affiliated with osu! or its developers. I will try to update this source as often as possible. Don't expect the latest osu!lazer version immediately. If you need me to change anything about this AltSource email me sky.bit@icloud.com \n NOTE: This AltSource will not recieve any updates after osu!lazer is released to the iOS App Store.", 
+    "description": "This is an unofficial osu!lazer AltSource designed to simplify the sideloading process for osu!lazer, created by Sky.Bit. This is not affiliated with osu! or its developers. I will try to update this source as often as possible. Don't expect the latest osu!lazer version immediately. If you need me to change anything about this AltSource email me sky.bit@icloud.com \n NOTE: This AltSource will not recieve any updates after osu!lazer is released to the iOS App Store. \n This has been archived at the request of the osu! developers due to an upcoming App Store release. This repo will no longer receive updates.", 
     "iconURL": "https://osu.ppy.sh/images/favicon/apple-touch-icon.png",
     "headerURL": "https://assets.ppy.sh/forum-covers/7/d3aee55866787c7dbc0f1456c9c0aa67698b46ada345c6dfd0aca736db30b855.jpeg",
     "website": "https://osu.ppy.sh",
